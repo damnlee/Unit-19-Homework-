@@ -1079,7 +1079,7 @@ figcaption {
   -ms-flex-pack: center;
   justify-content: center;
   color: #4b5061;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 800;
 }
 
@@ -1223,6 +1223,16 @@ figcaption {
   background-image: url('../images/Dazzled_Cover.png');
   background-position: 0px 0px;
   background-size: cover;
+}
+
+.div-block.artemis {
+  background-image: url('../images/Logo-01.jpg');
+  background-position: 50% 50%;
+}
+
+.div-block.il {
+  background-image: url('../images/IL_1.jpg');
+  background-position: 50% 50%;
 }
 
 .div-block-2 {
